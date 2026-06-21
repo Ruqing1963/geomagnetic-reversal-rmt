@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Weak Memory of the Geodynamo: A Random Matrix Theory Verdict on Geomagnetic Reversals"
+authors:
+  - family-names: "Chen"
+    given-names: "Ruqing"
+    affiliation: "GUT Geoservice Inc., Montreal, Canada"
+    email: ruqing@hotmail.com
+date-released: 2026-06-21
+license: MIT
+repository-code: "https://github.com/Ruqing1963/geomagnetic-reversal-rmt"
+keywords:
+  - random matrix theory
+  - geomagnetic reversals
+  - geodynamo
+  - cryptochrons
+  - paleomagnetism
